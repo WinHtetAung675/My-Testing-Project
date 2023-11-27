@@ -5,3 +5,7 @@ body{
 header{
     font-size: medium;
 }
+
+section{
+    color: red;
+}
